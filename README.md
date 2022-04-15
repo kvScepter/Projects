@@ -8,7 +8,7 @@ Not related to coding... just some random stuff
 
 These details <em>remain</em> <strong>hidden</strong> until expanded.
 
-<pre><code>Enter code here/code></pre>
+<pre><code>Enter code here</code></pre>
 
 </details>
 </p>
